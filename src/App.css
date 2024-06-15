@@ -1,0 +1,39 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.ques{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.opt{
+  background: whitesmoke;
+  border-radius: 50px; 
+  color: black;
+  min-width:400px;
+  min-height: 30px;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: left;
+  padding-left: 8px;
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 25px;
+}
+.opt:hover {
+  background:lavender;
+}
+.option button{
+  min-width: 500px;
+  margin:5px;
+  border-radius: 50px;
+  background: rgb(214, 240, 250);
+}
+
+.next button{
+  border-radius: 50px;
+  margin-top: 10px;
+  background: thistle;
+}
