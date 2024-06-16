@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-Once the development server is running, open your browser and navigate to `http://localhost:3000` to view the quiz app. Answer the questions and navigate through them using the provided buttons. At the end of the quiz, you can view your score.
+Once the development server is running, open your browser and navigate to `http://localhost:3000` to view the quiz app. Answer the questions and navigate through them using the Next button. At the end of the quiz, you can view your score also.
 
 ## Technologies Used
 
@@ -55,6 +55,3 @@ If you would like to contribute to this project, please fork the repository and 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-```
-
